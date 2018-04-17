@@ -1,2 +1,8 @@
 # User-Friendly-Model
-Model - Random Forest classifier
+Model - Decision Tree classifier
+Python 3
+Libraries: 
+- scikit-learn
+- numpy
+- tkinter
+- pickle
